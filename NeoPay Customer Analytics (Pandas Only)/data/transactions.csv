@@ -1,0 +1,121 @@
+account_id,txn_time,amount,txn_type,description,city
+10008,03-01-2024 02:00,6939.97,credit,atm cash,Mumbai
+10026,10-01-2024 06:00,50,debit,upi transfer,Pune
+10019,11-01-2024 20:00,50,debit,salary credit,Pune
+10026,16-01-2024 15:00,1109.54,debit,loan emi,Delhi
+10017,17-01-2024 15:00,22027.76,debit,upi transfer,Hyderabad
+10010,19-01-2024 15:00,6465.88,credit,loan emi,Hyderabad
+10004,21-01-2024 23:00,11680.89,debit,atm cash,Mumbai
+10018,22-01-2024 18:00,17814.23,debit,card swipe supermarket,Chennai
+10036,23-01-2024 10:00,3730.92,credit,salary credit,Delhi
+10025,23-01-2024 22:00,50,credit,bill payment electricity,Delhi
+10030,24-01-2024 16:00,50,debit,refund from merchant,Bengaluru
+10025,28-01-2024 19:00,300000,credit,upi transfer,Mumbai
+10002,01-02-2024 01:00,50,debit,bill payment electricity,Chennai
+10015,01-02-2024 12:00,3563.85,debit,bill payment electricity,Hyderabad
+10036,03-02-2024 20:00,15699.18,debit,investment sip,Delhi
+10017,03-02-2024 21:00,50,credit,upi transfer,Hyderabad
+10007,07-02-2024 08:00,6380.7,credit,online purchase,Chennai
+10020,08-02-2024 21:00,450000,debit,upi transfer,Hyderabad
+10039,09-02-2024 23:00,1005.64,debit,salary credit,Delhi
+10011,14-02-2024 03:00,8315.28,credit,loan emi,Bengaluru
+10025,15-02-2024 19:00,18207.42,credit,card swipe supermarket,Hyderabad
+10004,17-02-2024 01:00,4673.9,debit,investment sip,Hyderabad
+10018,01-06-2024 03:00,50,debit,upi transfer,Mumbai
+10023,18-02-2024 16:00,16706.42,credit,refund from merchant,Mumbai
+10005,24-02-2024 18:00,50,debit,refund from merchant,Pune
+10011,24-02-2024 20:00,6256.39,credit,refund from merchant,Hyderabad
+10004,27-02-2024 19:00,250000,credit,vendor payment,Delhi
+10013,29-02-2024 05:00,50,credit,salary credit,Hyderabad
+10020,07-03-2024 18:00,6042.2,credit,vendor payment,Delhi
+10019,07-03-2024 20:00,50,credit,upi transfer,Pune
+10011,10-03-2024 12:00,1126.64,debit,vendor payment,Bengaluru
+10038,16-03-2024 07:00,4610.25,credit,investment sip,Pune
+10018,19-03-2024 12:00,13850.31,credit,investment sip,Pune
+10014,20-03-2024 13:00,50,debit,refund from merchant,Mumbai
+10016,26-03-2024 10:00,50,credit,loan emi,Chennai
+10031,28-03-2024 16:00,50,debit,investment sip,Delhi
+10020,29-03-2024 07:00,15448.01,credit,upi transfer,Chennai
+10015,30-03-2024 05:00,17286.05,credit,atm cash,Bengaluru
+10009,30-03-2024 07:00,28310.9,credit,salary credit,Delhi
+10018,03-04-2024 07:00,50,debit,vendor payment,Bengaluru
+10002,06-04-2024 21:00,50,credit,online purchase,Chennai
+10020,08-04-2024 22:00,250000,credit,refund from merchant,Bengaluru
+10034,14-04-2024 06:00,6759.97,credit,loan emi,Pune
+10011,14-04-2024 18:00,50,credit,vendor payment,Bengaluru
+10036,15-04-2024 05:00,3692.46,debit,loan emi,Hyderabad
+10019,15-04-2024 15:00,6434.21,credit,card swipe supermarket,Chennai
+10003,16-04-2024 18:00,3873.67,debit,bill payment electricity,Chennai
+10013,17-04-2024 07:00,11707.91,debit,investment sip,Chennai
+10034,18-04-2024 10:00,13527.84,debit,salary credit,Hyderabad
+10018,18-04-2024 10:00,11705.01,credit,bill payment electricity,Pune
+10030,01-06-2024 01:00,274.34,debit,vendor payment,Bengaluru
+10024,21-04-2024 10:00,18789.33,credit,upi transfer,Pune
+10029,22-04-2024 08:00,8568.58,debit,vendor payment,Delhi
+10012,23-04-2024 00:00,50,credit,card swipe supermarket,Chennai
+10022,23-04-2024 12:00,25139.79,debit,investment sip,Bengaluru
+10004,24-04-2024 12:00,16691.55,debit,loan emi,Delhi
+10028,29-04-2024 19:00,1360.13,debit,salary credit,Mumbai
+10039,30-04-2024 10:00,20973.85,debit,bill payment electricity,Bengaluru
+10020,01-05-2024 16:00,7524.84,debit,loan emi,Pune
+10024,03-05-2024 12:00,50,credit,refund from merchant,Pune
+10023,06-05-2024 16:00,50,credit,refund from merchant,Chennai
+10033,11-05-2024 05:00,103.23,credit,refund from merchant,Hyderabad
+10028,01-06-2024 01:00,50,debit,card swipe supermarket,Bengaluru
+10012,01-06-2024 03:00,50,debit,online purchase,Pune
+10001,13-05-2024 16:00,50,debit,atm cash,Delhi
+10014,15-05-2024 19:00,10146.61,credit,online purchase,Hyderabad
+10029,16-05-2024 19:00,14646.83,debit,upi transfer,Mumbai
+10018,31-05-2024 11:00,300000,debit,vendor payment,Mumbai
+10031,31-05-2024 22:00,12861.92,credit,card swipe supermarket,Mumbai
+10018,02-06-2024 03:00,9304.92,debit,vendor payment,Pune
+10034,03-06-2024 20:00,7141.69,credit,loan emi,Delhi
+10026,06-06-2024 10:00,50,debit,refund from merchant,Pune
+10023,08-06-2024 21:00,6825.83,credit,refund from merchant,Hyderabad
+10038,10-06-2024 02:00,1843.16,debit,salary credit,Mumbai
+10014,01-06-2024 03:00,12452.58,debit,card swipe supermarket,Hyderabad
+10004,13-06-2024 03:00,13022.06,debit,upi transfer,Delhi
+10020,13-06-2024 06:00,6279.93,debit,vendor payment,Mumbai
+10038,14-06-2024 02:00,1934.5,credit,online purchase,Bengaluru
+10030,16-06-2024 16:00,7854.97,debit,vendor payment,Pune
+10011,17-06-2024 09:00,10151.51,credit,atm cash,Hyderabad
+10016,17-06-2024 11:00,50,credit,vendor payment,Delhi
+10007,18-06-2024 13:00,20014.76,debit,salary credit,Hyderabad
+10032,21-06-2024 12:00,10081.21,credit,vendor payment,Delhi
+10004,25-06-2024 21:00,1881.52,debit,investment sip,Pune
+10036,27-06-2024 17:00,17632.73,debit,upi transfer,Bengaluru
+10006,28-06-2024 01:00,7286.61,credit,upi transfer,Delhi
+10026,01-07-2024 06:00,50,credit,bill payment electricity,Mumbai
+10005,01-07-2024 17:00,3746.9,debit,atm cash,Delhi
+10022,02-07-2024 00:00,50,credit,refund from merchant,Pune
+10011,03-07-2024 14:00,50,debit,upi transfer,Delhi
+10027,05-07-2024 01:00,3085.15,debit,vendor payment,Hyderabad
+10001,06-07-2024 03:00,8079.61,credit,salary credit,Delhi
+10032,06-07-2024 14:00,5723.92,debit,investment sip,Chennai
+10034,06-07-2024 16:00,2700.93,debit,loan emi,Bengaluru
+10039,06-07-2024 21:00,50,credit,upi transfer,Delhi
+10012,07-07-2024 23:00,3222.22,debit,atm cash,Chennai
+10012,08-07-2024 04:00,50,credit,salary credit,Bengaluru
+10027,10-07-2024 07:00,50,credit,bill payment electricity,Mumbai
+10029,10-07-2024 13:00,6412.59,debit,card swipe supermarket,Hyderabad
+10028,12-07-2024 11:00,2327.01,debit,loan emi,Hyderabad
+10028,12-07-2024 12:00,3209.13,debit,atm cash,Delhi
+10010,16-07-2024 19:00,1677.14,credit,card swipe supermarket,Hyderabad
+10022,17-07-2024 23:00,19143.44,credit,refund from merchant,Chennai
+10031,19-07-2024 01:00,50,debit,salary credit,Delhi
+10005,19-07-2024 04:00,3763.95,debit,investment sip,Pune
+10028,19-07-2024 04:00,16259.85,debit,investment sip,Chennai
+10014,20-07-2024 20:00,7508.11,credit,online purchase,Chennai
+10031,21-07-2024 08:00,12327.22,credit,upi transfer,Chennai
+10005,25-07-2024 07:00,4569.74,credit,bill payment electricity,Chennai
+10023,25-07-2024 09:00,15873.5,credit,refund from merchant,Mumbai
+10017,01-08-2024 10:00,50,debit,loan emi,Bengaluru
+10007,02-08-2024 16:00,50,credit,loan emi,Hyderabad
+10029,03-08-2024 20:00,5245.05,credit,salary credit,Pune
+10007,05-08-2024 15:00,8430.05,credit,card swipe supermarket,Hyderabad
+10037,09-08-2024 17:00,4050.89,debit,online purchase,Bengaluru
+10016,10-08-2024 18:00,50,credit,salary credit,Mumbai
+10015,14-08-2024 00:00,4959.03,debit,bill payment electricity,Bengaluru
+10028,20-08-2024 12:00,6755.06,debit,card swipe supermarket,Mumbai
+10032,21-08-2024 07:00,50,credit,refund from merchant,Pune
+10022,01-06-2024 01:00,300000,debit,investment sip,Chennai
